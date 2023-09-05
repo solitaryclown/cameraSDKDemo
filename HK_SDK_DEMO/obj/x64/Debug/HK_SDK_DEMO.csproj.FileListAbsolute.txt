@@ -1,0 +1,16 @@
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\bin\x64\Debug\log4net.config
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\bin\x64\Debug\HK_SDK_DEMO.exe.config
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\bin\x64\Debug\HK_SDK_DEMO.exe
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\bin\x64\Debug\HK_SDK_DEMO.pdb
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\bin\x64\Debug\log4net.dll
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\bin\x64\Debug\MvCameraControl.Net.dll
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\bin\x64\Debug\log4net.xml
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\bin\x64\Debug\MvCameraControl.Net.xml
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\obj\x64\Debug\HK_SDK_DEMO.GrabImage.resources
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\obj\x64\Debug\HK_SDK_DEMO.Properties.Resources.resources
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\obj\x64\Debug\HK_SDK_DEMO.csproj.GenerateResource.cache
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\obj\x64\Debug\HK_SDK_DEMO.csproj.CoreCompileInputs.cache
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\obj\x64\Debug\HK_SDK_DEMO.csproj.CopyComplete
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\obj\x64\Debug\HK_SDK_DEMO.exe
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\obj\x64\Debug\HK_SDK_DEMO.pdb
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO\obj\x64\Debug\HK_SDK_DEMO.csprojAssemblyReference.cache

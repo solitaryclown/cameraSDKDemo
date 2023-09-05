@@ -1,0 +1,422 @@
+﻿
+namespace HK_SDK_DEMO_回调采图
+{
+    partial class GrabImage_Callback
+    {
+        /// <summary>
+        /// 必需的设计器变量。
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// 清理所有正在使用的资源。
+        /// </summary>
+        /// <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows 窗体设计器生成的代码
+
+        /// <summary>
+        /// 设计器支持所需的方法 - 不要修改
+        /// 使用代码编辑器修改此方法的内容。
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.lbVersion = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.btnSaveBMP = new System.Windows.Forms.Button();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.rbTriggerOff = new System.Windows.Forms.RadioButton();
+            this.rbTriggerOn = new System.Windows.Forms.RadioButton();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.tbxFrameRate = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.tbxGain = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.tbxExposureTime = new System.Windows.Forms.TextBox();
+            this.btnCloseDevice = new System.Windows.Forms.Button();
+            this.btnOpenDevice = new System.Windows.Forms.Button();
+            this.btnRefresh = new System.Windows.Forms.Button();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btnStopGrabbing = new System.Windows.Forms.Button();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btnCommandSoftware = new System.Windows.Forms.Button();
+            this.rbHardware = new System.Windows.Forms.RadioButton();
+            this.rbSoftware = new System.Windows.Forms.RadioButton();
+            this.btnStartGrabbing = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.cbCamList = new System.Windows.Forms.ComboBox();
+            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.groupBox4.SuspendLayout();
+            this.groupBox3.SuspendLayout();
+            this.groupBox2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.groupBox1.SuspendLayout();
+            this.tableLayoutPanel1.SuspendLayout();
+            this.groupBox5.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // lbVersion
+            // 
+            this.lbVersion.AutoSize = true;
+            this.lbVersion.Location = new System.Drawing.Point(66, 17);
+            this.lbVersion.Name = "lbVersion";
+            this.lbVersion.Size = new System.Drawing.Size(47, 12);
+            this.lbVersion.TabIndex = 28;
+            this.lbVersion.Text = "1.1.1.1";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(16, 17);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(47, 12);
+            this.label5.TabIndex = 27;
+            this.label5.Text = "SDK版本";
+            // 
+            // btnSaveBMP
+            // 
+            this.btnSaveBMP.Location = new System.Drawing.Point(16, 536);
+            this.btnSaveBMP.Name = "btnSaveBMP";
+            this.btnSaveBMP.Size = new System.Drawing.Size(99, 28);
+            this.btnSaveBMP.TabIndex = 26;
+            this.btnSaveBMP.Text = "保存BMP";
+            this.btnSaveBMP.UseVisualStyleBackColor = true;
+            // 
+            // groupBox4
+            // 
+            this.groupBox4.Controls.Add(this.rbTriggerOff);
+            this.groupBox4.Controls.Add(this.rbTriggerOn);
+            this.groupBox4.Location = new System.Drawing.Point(16, 170);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Size = new System.Drawing.Size(200, 73);
+            this.groupBox4.TabIndex = 25;
+            this.groupBox4.TabStop = false;
+            this.groupBox4.Text = "触发模式";
+            // 
+            // rbTriggerOff
+            // 
+            this.rbTriggerOff.AutoSize = true;
+            this.rbTriggerOff.Location = new System.Drawing.Point(7, 34);
+            this.rbTriggerOff.Name = "rbTriggerOff";
+            this.rbTriggerOff.Size = new System.Drawing.Size(35, 16);
+            this.rbTriggerOff.TabIndex = 1;
+            this.rbTriggerOff.TabStop = true;
+            this.rbTriggerOff.Text = "关";
+            this.rbTriggerOff.UseVisualStyleBackColor = true;
+            this.rbTriggerOff.CheckedChanged += new System.EventHandler(this.rbTriggerOff_CheckedChanged);
+            // 
+            // rbTriggerOn
+            // 
+            this.rbTriggerOn.AutoSize = true;
+            this.rbTriggerOn.Location = new System.Drawing.Point(7, 12);
+            this.rbTriggerOn.Name = "rbTriggerOn";
+            this.rbTriggerOn.Size = new System.Drawing.Size(35, 16);
+            this.rbTriggerOn.TabIndex = 0;
+            this.rbTriggerOn.TabStop = true;
+            this.rbTriggerOn.Text = "开";
+            this.rbTriggerOn.UseVisualStyleBackColor = true;
+            this.rbTriggerOn.CheckedChanged += new System.EventHandler(this.rbTriggerOn_CheckedChanged);
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.label4);
+            this.groupBox3.Controls.Add(this.tbxFrameRate);
+            this.groupBox3.Controls.Add(this.label3);
+            this.groupBox3.Controls.Add(this.tbxGain);
+            this.groupBox3.Controls.Add(this.label2);
+            this.groupBox3.Controls.Add(this.tbxExposureTime);
+            this.groupBox3.Location = new System.Drawing.Point(22, 364);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(200, 132);
+            this.groupBox3.TabIndex = 24;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "参数";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(18, 98);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(29, 12);
+            this.label4.TabIndex = 5;
+            this.label4.Text = "帧率";
+            // 
+            // tbxFrameRate
+            // 
+            this.tbxFrameRate.Location = new System.Drawing.Point(77, 95);
+            this.tbxFrameRate.Name = "tbxFrameRate";
+            this.tbxFrameRate.Size = new System.Drawing.Size(100, 21);
+            this.tbxFrameRate.TabIndex = 4;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(18, 59);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(29, 12);
+            this.label3.TabIndex = 3;
+            this.label3.Text = "增益";
+            // 
+            // tbxGain
+            // 
+            this.tbxGain.Location = new System.Drawing.Point(77, 56);
+            this.tbxGain.Name = "tbxGain";
+            this.tbxGain.Size = new System.Drawing.Size(100, 21);
+            this.tbxGain.TabIndex = 2;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(18, 23);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(53, 12);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "曝光时间";
+            // 
+            // tbxExposureTime
+            // 
+            this.tbxExposureTime.Location = new System.Drawing.Point(77, 20);
+            this.tbxExposureTime.Name = "tbxExposureTime";
+            this.tbxExposureTime.Size = new System.Drawing.Size(100, 21);
+            this.tbxExposureTime.TabIndex = 0;
+            this.tbxExposureTime.TextChanged += new System.EventHandler(this.tbxExposureTime_TextChanged);
+            // 
+            // btnCloseDevice
+            // 
+            this.btnCloseDevice.Location = new System.Drawing.Point(125, 121);
+            this.btnCloseDevice.Name = "btnCloseDevice";
+            this.btnCloseDevice.Size = new System.Drawing.Size(99, 23);
+            this.btnCloseDevice.TabIndex = 23;
+            this.btnCloseDevice.Text = "关闭设备";
+            this.btnCloseDevice.UseVisualStyleBackColor = true;
+            this.btnCloseDevice.Click += new System.EventHandler(this.btnCloseDevice_Click);
+            // 
+            // btnOpenDevice
+            // 
+            this.btnOpenDevice.Location = new System.Drawing.Point(16, 121);
+            this.btnOpenDevice.Name = "btnOpenDevice";
+            this.btnOpenDevice.Size = new System.Drawing.Size(99, 23);
+            this.btnOpenDevice.TabIndex = 22;
+            this.btnOpenDevice.Text = "打开设备";
+            this.btnOpenDevice.UseVisualStyleBackColor = true;
+            this.btnOpenDevice.Click += new System.EventHandler(this.btnOpenDevice_Click);
+            // 
+            // btnRefresh
+            // 
+            this.btnRefresh.Location = new System.Drawing.Point(16, 73);
+            this.btnRefresh.Name = "btnRefresh";
+            this.btnRefresh.Size = new System.Drawing.Size(208, 28);
+            this.btnRefresh.TabIndex = 21;
+            this.btnRefresh.Text = "刷新设备列表";
+            this.btnRefresh.UseVisualStyleBackColor = true;
+            this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.pictureBox1);
+            this.groupBox2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupBox2.Location = new System.Drawing.Point(274, 3);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(883, 656);
+            this.groupBox2.TabIndex = 20;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "图像窗口";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.SystemColors.Desktop;
+            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pictureBox1.Location = new System.Drawing.Point(3, 17);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(877, 636);
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
+            // btnStopGrabbing
+            // 
+            this.btnStopGrabbing.Location = new System.Drawing.Point(121, 502);
+            this.btnStopGrabbing.Name = "btnStopGrabbing";
+            this.btnStopGrabbing.Size = new System.Drawing.Size(99, 28);
+            this.btnStopGrabbing.TabIndex = 19;
+            this.btnStopGrabbing.Text = "停止采图";
+            this.btnStopGrabbing.UseVisualStyleBackColor = true;
+            this.btnStopGrabbing.Click += new System.EventHandler(this.btnStopGrabbing_Click);
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.btnCommandSoftware);
+            this.groupBox1.Controls.Add(this.rbHardware);
+            this.groupBox1.Controls.Add(this.rbSoftware);
+            this.groupBox1.Location = new System.Drawing.Point(16, 274);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(208, 84);
+            this.groupBox1.TabIndex = 18;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "触发源";
+            // 
+            // btnCommandSoftware
+            // 
+            this.btnCommandSoftware.Location = new System.Drawing.Point(7, 55);
+            this.btnCommandSoftware.Name = "btnCommandSoftware";
+            this.btnCommandSoftware.Size = new System.Drawing.Size(75, 23);
+            this.btnCommandSoftware.TabIndex = 2;
+            this.btnCommandSoftware.Text = "软触发一次";
+            this.btnCommandSoftware.UseVisualStyleBackColor = true;
+            this.btnCommandSoftware.Click += new System.EventHandler(this.btnCommandSoftware_Click);
+            // 
+            // rbHardware
+            // 
+            this.rbHardware.AutoSize = true;
+            this.rbHardware.Location = new System.Drawing.Point(107, 20);
+            this.rbHardware.Name = "rbHardware";
+            this.rbHardware.Size = new System.Drawing.Size(59, 16);
+            this.rbHardware.TabIndex = 1;
+            this.rbHardware.TabStop = true;
+            this.rbHardware.Text = "硬触发";
+            this.rbHardware.UseVisualStyleBackColor = true;
+            this.rbHardware.CheckedChanged += new System.EventHandler(this.rbHardware_CheckedChanged);
+            // 
+            // rbSoftware
+            // 
+            this.rbSoftware.AutoSize = true;
+            this.rbSoftware.Location = new System.Drawing.Point(6, 20);
+            this.rbSoftware.Name = "rbSoftware";
+            this.rbSoftware.Size = new System.Drawing.Size(59, 16);
+            this.rbSoftware.TabIndex = 0;
+            this.rbSoftware.TabStop = true;
+            this.rbSoftware.Text = "软触发";
+            this.rbSoftware.UseVisualStyleBackColor = true;
+            this.rbSoftware.CheckedChanged += new System.EventHandler(this.rbSoftware_CheckedChanged);
+            // 
+            // btnStartGrabbing
+            // 
+            this.btnStartGrabbing.Location = new System.Drawing.Point(16, 502);
+            this.btnStartGrabbing.Name = "btnStartGrabbing";
+            this.btnStartGrabbing.Size = new System.Drawing.Size(99, 28);
+            this.btnStartGrabbing.TabIndex = 17;
+            this.btnStartGrabbing.Text = "开始采集";
+            this.btnStartGrabbing.UseVisualStyleBackColor = true;
+            this.btnStartGrabbing.Click += new System.EventHandler(this.btnStartGrabbing_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(14, 43);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(53, 12);
+            this.label1.TabIndex = 16;
+            this.label1.Text = "设备列表";
+            // 
+            // cbCamList
+            // 
+            this.cbCamList.FormattingEnabled = true;
+            this.cbCamList.Location = new System.Drawing.Point(73, 40);
+            this.cbCamList.Name = "cbCamList";
+            this.cbCamList.Size = new System.Drawing.Size(151, 20);
+            this.cbCamList.TabIndex = 15;
+            // 
+            // tableLayoutPanel1
+            // 
+            this.tableLayoutPanel1.ColumnCount = 2;
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 23.36207F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 76.63793F));
+            this.tableLayoutPanel1.Controls.Add(this.groupBox2, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.groupBox5, 0, 0);
+            this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
+            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
+            this.tableLayoutPanel1.RowCount = 1;
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1160, 662);
+            this.tableLayoutPanel1.TabIndex = 29;
+            // 
+            // groupBox5
+            // 
+            this.groupBox5.Controls.Add(this.label5);
+            this.groupBox5.Controls.Add(this.lbVersion);
+            this.groupBox5.Controls.Add(this.cbCamList);
+            this.groupBox5.Controls.Add(this.label1);
+            this.groupBox5.Controls.Add(this.btnSaveBMP);
+            this.groupBox5.Controls.Add(this.btnStartGrabbing);
+            this.groupBox5.Controls.Add(this.groupBox4);
+            this.groupBox5.Controls.Add(this.groupBox1);
+            this.groupBox5.Controls.Add(this.groupBox3);
+            this.groupBox5.Controls.Add(this.btnStopGrabbing);
+            this.groupBox5.Controls.Add(this.btnCloseDevice);
+            this.groupBox5.Controls.Add(this.btnRefresh);
+            this.groupBox5.Controls.Add(this.btnOpenDevice);
+            this.groupBox5.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupBox5.Location = new System.Drawing.Point(3, 3);
+            this.groupBox5.Name = "groupBox5";
+            this.groupBox5.Size = new System.Drawing.Size(265, 656);
+            this.groupBox5.TabIndex = 21;
+            this.groupBox5.TabStop = false;
+            this.groupBox5.Text = "操作";
+            // 
+            // GrabImage_Callback
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1160, 662);
+            this.Controls.Add(this.tableLayoutPanel1);
+            this.Name = "GrabImage_Callback";
+            this.Text = "Form1";
+            this.groupBox4.ResumeLayout(false);
+            this.groupBox4.PerformLayout();
+            this.groupBox3.ResumeLayout(false);
+            this.groupBox3.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            this.tableLayoutPanel1.ResumeLayout(false);
+            this.groupBox5.ResumeLayout(false);
+            this.groupBox5.PerformLayout();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label lbVersion;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Button btnSaveBMP;
+        private System.Windows.Forms.GroupBox groupBox4;
+        private System.Windows.Forms.RadioButton rbTriggerOff;
+        private System.Windows.Forms.RadioButton rbTriggerOn;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox tbxFrameRate;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox tbxGain;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox tbxExposureTime;
+        private System.Windows.Forms.Button btnCloseDevice;
+        private System.Windows.Forms.Button btnOpenDevice;
+        private System.Windows.Forms.Button btnRefresh;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button btnStopGrabbing;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Button btnCommandSoftware;
+        private System.Windows.Forms.RadioButton rbHardware;
+        private System.Windows.Forms.RadioButton rbSoftware;
+        private System.Windows.Forms.Button btnStartGrabbing;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ComboBox cbCamList;
+        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
+        private System.Windows.Forms.GroupBox groupBox5;
+    }
+}
+

@@ -1,0 +1,15 @@
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\bin\Debug\HK_SDK_DEMO_回调采图.exe.config
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\bin\Debug\HK_SDK_DEMO_回调采图.exe
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\bin\Debug\HK_SDK_DEMO_回调采图.pdb
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\obj\Debug\HK_SDK_DEMO_回调采图.csprojAssemblyReference.cache
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\obj\Debug\HK_SDK_DEMO_回调采图.Properties.Resources.resources
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\obj\Debug\HK_SDK_DEMO_回调采图.csproj.GenerateResource.cache
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\obj\Debug\HK_SDK_DEMO_回调采图.csproj.CoreCompileInputs.cache
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\obj\Debug\HK_SDK_DEMO_回调采图.exe
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\obj\Debug\HK_SDK_DEMO_回调采图.pdb
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\obj\Debug\HK_SDK_DEMO_回调采图.GrabImage_Callback.resources
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\bin\Debug\log4net.dll
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\bin\Debug\MvCameraControl.Net.dll
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\bin\Debug\log4net.xml
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\bin\Debug\MvCameraControl.Net.xml
+F:\VSProjects\HK_SDK_DEMO\HK_SDK_DEMO_回调采图\obj\Debug\HK_SDK_DEMO_回调采图.csproj.CopyComplete

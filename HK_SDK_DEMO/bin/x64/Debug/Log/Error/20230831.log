@@ -1,0 +1,5 @@
+2023-08-31 08:19:28,339 [1] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-31 08:19:42,453 [1] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-31 13:47:55,553 [1] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-31 13:52:19,616 [4] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-31 13:52:24,083 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误

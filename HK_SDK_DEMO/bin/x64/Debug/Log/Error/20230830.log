@@ -1,0 +1,135 @@
+2023-08-30 14:25:42,141 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:25:45,474 [主线程] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 14:25:53,646 [主线程] ERROR HK_SDK_DEMO.GrabImage - 软触发执行一次失败！
+2023-08-30 14:26:36,768 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:26:47,189 [主线程] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 14:26:49,559 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:26:53,034 [主线程] ERROR HK_SDK_DEMO.GrabImage - 软触发执行一次失败！
+2023-08-30 14:26:55,170 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:27:27,907 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:27:29,456 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:27:31,253 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:27:39,752 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:29:38,034 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:30:46,474 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:31:28,366 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:31:30,659 [主线程] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 14:31:40,666 [主线程] ERROR HK_SDK_DEMO.GrabImage - 软触发执行一次失败！
+2023-08-30 14:31:47,958 [4] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 14:31:48,834 [主线程] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 14:42:51,293 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:46:02,379 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:46:05,672 [主线程] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 14:46:07,453 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:46:09,944 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:46:15,514 [主线程] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 14:46:18,798 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:46:29,233 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:47:08,703 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:47:13,827 [主线程] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 14:47:15,998 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:47:18,233 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:47:20,873 [主线程] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 14:47:22,450 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:47:24,670 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:47:27,169 [主线程] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 14:49:29,673 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:49:45,784 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:49:47,848 [主线程] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 14:49:54,291 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 14:58:44,753 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 15:01:18,320 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 15:01:49,921 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 15:01:51,757 [主线程] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 15:01:53,944 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 15:01:55,866 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 15:01:57,473 [主线程] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 15:03:01,432 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 15:03:05,942 [主线程] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 15:03:37,819 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 15:04:03,137 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 15:04:12,694 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 15:04:14,137 [主线程] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 15:04:16,022 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 15:04:18,487 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 15:04:43,469 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 15:08:45,194 [主线程] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 15:10:43,513 [1] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 18:20:16,214 [1] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 18:20:43,733 [1] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 18:20:46,018 [1] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 18:20:48,015 [1] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 18:20:55,206 [1] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 18:21:07,115 [1] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 18:21:08,677 [1] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 18:21:10,231 [1] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 18:21:11,363 [1] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 18:21:13,269 [1] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 18:21:14,521 [1] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 18:21:15,749 [1] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 18:21:17,248 [1] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 18:21:18,735 [1] ERROR HK_SDK_DEMO.GrabImage - 无选中设备！
+2023-08-30 18:21:21,145 [1] ERROR HK_SDK_DEMO.GrabImage - 关闭设备失败
+2023-08-30 18:21:24,001 [4] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:21:33,350 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:26:41,326 [5] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:26:43,169 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:26:45,848 [6] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:26:46,435 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:26:48,173 [7] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:26:48,631 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:26:51,667 [8] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:26:52,221 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:26:55,690 [1] ERROR HK_SDK_DEMO.GrabImage - 停止采集错误
+2023-08-30 18:27:46,377 [1] ERROR HK_SDK_DEMO.GrabImage - 软触发执行一次失败！
+2023-08-30 18:27:56,582 [9] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:27:56,711 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:28:00,218 [10] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:28:01,914 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:28:03,998 [11] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:28:04,397 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:29:57,602 [4] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:29:59,870 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:01,565 [5] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:01,957 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:03,530 [6] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:03,651 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:04,967 [7] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:05,083 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:06,260 [8] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:06,373 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:07,629 [9] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:07,731 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:09,237 [10] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:09,366 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:11,294 [11] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:11,422 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:13,684 [12] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:13,820 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:15,847 [13] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:15,974 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:17,471 [14] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:17,784 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:19,053 [15] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:19,164 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:20,930 [16] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:21,064 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:22,599 [17] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:22,742 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:24,238 [18] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:24,517 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:26,926 [19] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:27,036 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:28,561 [20] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:28,692 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:30,495 [21] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:30,620 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:32,176 [22] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:33,594 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:35,176 [23] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:35,280 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:37,372 [24] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:37,500 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:39,159 [25] ERROR HK_SDK_DEMO.GrabImage - get payload size failed
+2023-08-30 18:30:40,013 [1] ERROR HK_SDK_DEMO.GrabImage - 采图错误
+2023-08-30 18:30:41,429 [1] ERROR HK_SDK_DEMO.GrabImage - 未开始采图！

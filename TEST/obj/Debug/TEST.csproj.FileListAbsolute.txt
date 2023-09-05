@@ -1,0 +1,7 @@
+F:\VSProjects\HK_SDK_DEMO\TEST\bin\Debug\TEST.exe.config
+F:\VSProjects\HK_SDK_DEMO\TEST\bin\Debug\TEST.exe
+F:\VSProjects\HK_SDK_DEMO\TEST\bin\Debug\TEST.pdb
+F:\VSProjects\HK_SDK_DEMO\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+F:\VSProjects\HK_SDK_DEMO\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+F:\VSProjects\HK_SDK_DEMO\TEST\obj\Debug\TEST.exe
+F:\VSProjects\HK_SDK_DEMO\TEST\obj\Debug\TEST.pdb
